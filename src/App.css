@@ -1,0 +1,7 @@
+@import "./styles/font.css";
+
+* {
+	/* font-family: "Google Sans", sans-serif !important; */
+	font-family: "Poppins Light", sans-serif !important;
+	font-size: 9pt;
+}
